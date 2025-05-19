@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rfk42/rfk42/logo.png" alt="Logo personalisé" width="150"/>
+  <img src="https://github.com/rfk42/rfk42/blob/main/logo.png" alt="Logo personalisé" width="150"/>
 </p>
 
 <h1 align="center">👋 Salut, je suis Rafik Hamini</h1>
